@@ -19,3 +19,6 @@ The Landing Animation with GSAP project showcases a visually appealing animation
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/Divyesh-k/landing-animation-gsap.git
+
+
+
